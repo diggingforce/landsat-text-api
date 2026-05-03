@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="demo_title.png" height="150" /><br/>
+  <img src="demo_sub.png" height="100" /><br/>
+  <img src="demo_small.png" height="70" />
+</p>
+
 # landsat-text-api
 Render any text using NASA's landsat satellite images!
 
