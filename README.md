@@ -5,7 +5,7 @@
 </p>
 
 # landsat-text-api
-Render any text using NASA's landsat satellite images!
+Render any text using [NASA's landsat satellite](https://science.nasa.gov/specials/your-name-in-landsat/) images!
 
 ## Quick start
 Make sure you have [bun](https://bun.com/docs/installation) installed.
